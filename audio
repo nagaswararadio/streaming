@@ -1,7 +1,7 @@
 
-#EXTINF:-1 ,NAGASWARA RADIOTEMEN
+#EXTINF:-1 group-title="RADIO",NAGASWARA RADIOTEMEN
 https://live.nagaswarafm.com:9900/stream
-#EXTINF:-1 ,NAGASWARA POP
+#EXTINF:-1 group-title="RADIO",NAGASWARA POP
 https://live.nagaswarafm.com:9100/stream
-#EXTINF:-1 ,NAGASWARA DANCEDHUT
+#EXTINF:-1 group-title="RADIO",NAGASWARA DANCEDHUT
 https://live.nagaswarafm.com:9200/stream
