@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="RADIO",NAGASWARA RADIOTEMEN
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/WmhYagwvh5.png",NAGASWARA RADIOTEMEN
 https://live.nagaswarafm.com:9900/stream
-#EXTINF:-1 group-title="RADIO",NAGASWARA POP
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/WmhYagwvh5.png",NAGASWARA RADIOTEMEN
+https://live.nagaswarafm.com:9900/nagaswararadio
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/VNuhUG7Eaw.png",NAGASWARA POP
 https://live.nagaswarafm.com:9100/nagaswarapop
-#EXTINF:-1 group-title="RADIO",NAGASWARA DANCEDHUT
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/Ghj2bG2nyM.png",NAGASWARA DANCEDHUT
 https://live.nagaswarafm.com:9200/nagaswaradance
