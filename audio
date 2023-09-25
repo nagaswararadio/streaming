@@ -5,4 +5,5 @@ https://live.nagaswarafm.com/nagaswararadio/stream
 https://live.nagaswarafm.com/nagaswarapop/stream
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/Ghj2bG2nyM.png",NAGASWARA DANCEDHUT NONSTOP 
 https://live.nagaswarafm.com/nagaswaradance/stream
-
+#EXTINF:-1 group-title="Radio" tvg-logo="https://nagaswarafm.com/logoradio/ns-world-512.png",NAGASWARA WORLD NONSTOP 
+https://live.nagaswarafm.com/nagaswaraworld/stream
